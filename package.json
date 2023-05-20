@@ -1,0 +1,23 @@
+{
+  "name": "sauce",
+  "version": "1.0.0",
+  "description": "automatização web do saucedemo",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielaKeyti/sauce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielaKeyti/sauce/issues"
+  },
+  "homepage": "https://github.com/DanielaKeyti/sauce#readme",
+  "devDependencies": {
+    "cypress": "^12.12.0"
+  }
+}
